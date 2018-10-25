@@ -56,3 +56,26 @@ h1 {
     background-color: green;
     border-radius: 100%;
 }
+
+.icons {
+    display: flex;
+    padding-top: 80px;
+    justify-content: space-evenly;
+}
+
+.icones-meio {
+    width: 20vw;
+}
+
+.icones-meio h2 {
+    font-size: 14pt;
+}
+
+.icone {
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    border-radius: 30vh; 
+    margin-left: 15vh;
+    margin-right: 15vh;   
+}
